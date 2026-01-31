@@ -1,4 +1,4 @@
-# ZenXen
+# Josia Paulus
 My personal repository
 
 Hi, I'm Josia Paulus
