@@ -1,9 +1,11 @@
 # Josia Paulus
 My personal repository
 
-Hi, I'm Josia Paulus
+I'm Josia Paulus<br>
 
--🎓 Undergraduate Student at the University of Indonesia
--⚡ Electrical Engineering
--💡 I'm interested in control systems, robotics, and IoT
--🔧 Currently studying and developing projects in the field of robotics and IoT
+-🎓 Undergraduate Student at the University of Indonesia<br>
+-⚡ Electrical Engineering<br>
+-💡 I'm interested in control systems, robotics, and IoT<br>
+-🔧 Currently studying and developing projects in the field of robotics and IoT<br>
+
+
